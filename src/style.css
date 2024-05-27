@@ -3,11 +3,15 @@
 
 }
 header {
-    color:rgb(209, 116, 116);
+    color:rgb(0, 0, 0);
+    text-align: center;
 }
 
-
+button {
+    background: 9874A2;
+}
 
 footer{
     color:blueviolet;
+    text-align: right;
 }
