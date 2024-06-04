@@ -5,27 +5,33 @@
   <meta charset="utf-8">
   <title>Analizador de texto</title>
   <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,600;1,200&display=swap" rel="stylesheet">
 </head>
 <body>
 <header>
-  <h1>ANALIZADOR DE TEXTO</h1>
+  <h1>Analizador de texto</h1>
   </header>
-  <p>Este analizador de texto es una herramienta para obtener datos sobre tus textos.</p>
-<textarea name ="user-input" placeholder = "Escribe o copia y pega el texto a analizar aquí:"> </textarea>
+  <p>Este analizador de texto es una herramienta completa que te informa sobre el conteo de numero de palabras y caracteres presentes en tu texto. 
+    Ofrece información sobre la longitud promedio de las palabras que conforman el texto y la presencia de números.</p>
+
+<textarea name="user-input" placeholder="Escribe o copia y pega el texto a analizar aquí:"></textarea>
 
 <ul>
-  <li class="metricas" >Número de palabras:</li>
-  <li class="metricas" >Número de caracteres:</li>
-  <li class="metricas" >Número de caracteres sin espacio/signos de puntuación:</li>
-  <li class="metricas" >Cantidad de números:</li>
-  <li class="metricas" >Suma de los números:</li>
-  <li class="metricas" >Longitud promedio de las palabras:</li>
+  <li class = "contador" data-testid = "word-count">Palabras:</li>
+  <li class = "contador" data-testid = "character-count">Caracteres:</li>
+  <li class = "contador" data-testid = "character-no-spaces-count">Caracteres sin espacio:</li>
+  <li class = "contador" data-testid = "number-count">Números:</li>
+  <li class = "contador" data-testid = "number-sum">Suma de números:</li>
+  <li class = "contador" data-testid = "word-length-average">Longitud promedio:</li>
 </ul>
-<button id="reiniciar" value="reset-button"> Limpiar contenido </button>
+<button id="reiniciar" value="reset-button"> ¡Analiza otro texto! </button>
 
 <footer>
-  <p>Autor: Susana Equihua Carbajal</p>
+  <p>© 2024 Susana Equihua</p>
 </footer>
+
   <script src="index.js" type="module"></script>
   
 </body>
