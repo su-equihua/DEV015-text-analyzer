@@ -49,7 +49,7 @@ const analyzer = {
     //console.log(arregloPalabras);
    
     let sumaCaracteres = 0  //Declarar la ariable de inicio del bucle en 0 para que se vaya guardando la suma de todas las palabras del arreglo
-   
+    //i =indíce 
     for (let i = 0; i< arregloPalabras.length; i++) {  //la operacion se hará en todo el arreglo
       sumaCaracteres += arregloPalabras[i].length      //Obtener el numero de caracateres de cada palabra del arreglo y se suman
     }
