@@ -41,7 +41,7 @@ p {
     color: rgb(3, 3, 3);
 }
 ul{
-    width: 90%; /*ancho de todo el grupito de cajitas*/
+    width: 90%;
     height: 10%;
     columns: 3;
     padding: 0px;

@@ -14,7 +14,6 @@ información básica sobre la longitud y la estructura del texto, el conteo de p
 ## Diseño de página:
 
 Para esta página web se optó por un diseño limpio, claro y simple con el objetivo principal de eliminar distracciones para que la usuaria se centre en el contenido más importante de la página, es decir, en el resultado de cada una de las métricas obtenidas de su texto.
-
 El minimalismo de la página web busca la simplicidad y claridad para ofrecer una experiencia agradable y enfocada a usuaria.
 
 El prototipo del diseño de ésta página fue desarrollado en la plataforma Figma.
