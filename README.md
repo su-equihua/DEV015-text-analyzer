@@ -19,12 +19,12 @@ El Analizador de Texto es una aplicación web que permite a la usuaria extraer y
 En la aplicación, la usuaria ingresa el texto en un cuadro de texto, y a medida que escribe, se calculan en tiempo real las métricas.
 Las métricas que se calculan son las siguientes:
 
-    - Conteo de palabras: muestra el número total de palabras en el texto.
-    - Conteo de caracteres: contabiliza todo los caracteres, incluidos espacios y signos de puntuación.
-    - Conteo de caracteres excluyendo signos de puntuación y espacios: muestra el número de caracteres sin contar espacios ni signos de puntuación.
-    - Detección y conteo de números: detecta la presencia de números y los contabiliza.
-    - Suma de números: genera la suma total de los números presentes en el texto.
-    - Longitud promedio de las palabras: calcula y muestra la longitud media de las palabras del texto de entrada.
+- Conteo de palabras: muestra el número total de palabras en el texto.
+- Conteo de caracteres: contabiliza todo los caracteres, incluidos espacios y signos de puntuación.
+- Conteo de caracteres excluyendo signos de puntuación y espacios: muestra el número de caracteres sin contar espacios ni signos de puntuación.
+- Detección y conteo de números: detecta la presencia de números y los contabiliza.
+- Suma de números: genera la suma total de los números presentes en el texto.
+- Longitud promedio de las palabras: calcula y muestra la longitud media de las palabras del texto de entrada.
 
  Además, la aplicación cuenta con un botón que permite limpiar el contenido del cuadro de texto y restablecer las métricas.
 
@@ -49,8 +49,8 @@ Este código fue desarrollado utilizando los tres lenguajes fundamentales para e
 
 El tiempo estimado para completar este proyecto fue de 3 sprints:
 
-    * Primer Sprint: Se configuró el entorno de trabajo y se desarrolló la estructura base de la página en el archivo HTML.
-    * Segundo Sprint: Se implementaron las funciones de los métodos de objeto y el manejador de eventos en JavaScript, permitiendo la interacción de la usuaria con la página.
-    * Tercer Sprint: Se realizaron pruebas para asegurar el correcto funcionamiento de la página y se diseñaron los estilos visuales con CSS.
+* Primer Sprint: Se configuró el entorno de trabajo y se desarrolló la estructura base de la página en el archivo HTML.
+* Segundo Sprint: Se implementaron las funciones de los métodos de objeto y el manejador de eventos en JavaScript, permitiendo la interacción de la usuaria con la página.
+* Tercer Sprint: Se realizaron pruebas para asegurar el correcto funcionamiento de la página y se diseñaron los estilos visuales con CSS.
 
 Aunque el código de esta aplicación es de autoría única, el desarrollo se hizo posible gracias a la orientación y apoyo de otras desarrolladoras web.
