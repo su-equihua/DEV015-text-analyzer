@@ -14,7 +14,7 @@ El Analizador de Texto es una aplicación web que permite a la usuaria extraer y
 
 ![Vista general de la aplicación](https://raw.githubusercontent.com/su-equihua/DEV015-text-analyzer/refs/heads/main/Images/vista-app.png)
 
-## Funcionalidades de esta herramienta
+## Funcionalidades
  
 En la aplicación, la usuaria ingresa el texto en un cuadro de texto, y a medida que escribe, se calculan en tiempo real las métricas.
 Las métricas que se calculan son las siguientes:
