@@ -45,7 +45,7 @@ El prototipo del diseño fue desarrollado en la plataforma [Figma](https://www.f
 
 Este código fue desarrollado utilizando los tres lenguajes fundamentales para el desarrollo web: HTML, JavaScript y CSS.
 
-## Desarrollo de este proyecto
+## Desarrollo del proyecto
 
 El tiempo estimado para completar este proyecto fue de 3 sprints:
 
